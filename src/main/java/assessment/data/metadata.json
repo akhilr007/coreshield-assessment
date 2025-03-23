@@ -6,6 +6,5 @@
   {"id": "loc_06", "type": "hotel", "rating": 4.0, "reviews": 700},
   {"id": "loc_07", "type": "hotel", "rating": 2.0, "reviews": 900},
   {"id": "loc_03", "type": "cafe", "rating": 4.7, "reviews": 150},
-
   {"id": "loc_08", "type": "cafe", "rating": 4.5, "reviews": 750}
 ]
